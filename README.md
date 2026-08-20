@@ -14,7 +14,8 @@
 
 <p align="center">
   <span style="color:#;">
-    coming soon ,,
+  <img width="40" height="20" alt="💬 6  🔁 1531  ❤️ 7151" src="https://github.com/user-attachments/assets/b83a6115-7e7f-4627-bf30-cf1157e71f6d" />
+  coming soon ,,
   </span>
 </p>
 <p align="center"> <img width="540" height="304" alt=" -5" src="https://github.com/user-attachments/assets/c437a7e0-44da-465a-8f30-80452b73c8fc" />
@@ -23,7 +24,8 @@
 
 <p align="center">
   <span style="color:#ff69b4;">
-    coming soon ,,
+   <img width="40" height="20" alt="💬 6  🔁 1531  ❤️ 7151" src="https://github.com/user-attachments/assets/b83a6115-7e7f-4627-bf30-cf1157e71f6d" />
+ coming soon ,,
   </span>
 </p>
 
