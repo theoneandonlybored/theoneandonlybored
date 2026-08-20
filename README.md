@@ -1,9 +1,10 @@
-## Hi there 👋
+## ೄྀ࿐ ˊˎ- Hey! 
+<img width="540" height="308" alt=" -2" src="https://github.com/user-attachments/assets/814de2d3-6ebc-418d-9119-6564a3b8b0b1" />
 
 <!--
 **theoneandonlybored/theoneandonlybored** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
