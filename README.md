@@ -1,4 +1,4 @@
-<img width="500" height="200" alt=" -7" src="https://github.com/user-attachments/assets/2106e3fd-f3bd-4cfc-8bdd-779312762a32" />
+
 
 
 
@@ -9,7 +9,7 @@
  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=୨୧%20✧♡Welcome!♡%20✧%20୨୧&fontSize=38&fontColor=ef85a6&animation=twinkling"/>
 </p>
 
-<p align="center"> <img width="1000" height="100" alt=" -11" src="https://github.com/user-attachments/assets/d4900be9-3d8e-4659-93f8-79a0607685c9" />
+<p align="center"> <img width="1000" height="100" alt=" post it   kim yohan" src="https://github.com/user-attachments/assets/1bbb1e13-9932-4fbf-8bfb-f5326b1f8ec9" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=୨୧%20✧%20♡%20✧%20୨୧&fontSize=38&fontColor=fca95e&animation=twinkling"/>
@@ -33,7 +33,7 @@
  coming soon ,,
   </span>
 </p>
-
+<p align="center"> <img width="1000" height="100" alt=" post it   kim yohan" src="https://github.com/user-attachments/assets/1bbb1e13-9932-4fbf-8bfb-f5326b1f8ec9" />
 <h1 align="center" <h1>${\textsf{\color{#ddbdf4}୨୧ ✧ Thanks for reading! ✧ ୨୧}}$ 
 
 
